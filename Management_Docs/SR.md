@@ -1,4 +1,5 @@
 # Stakeholder Register (SR)
+
 ## Progetto CampusFood
 
 | Campo | Valore |
